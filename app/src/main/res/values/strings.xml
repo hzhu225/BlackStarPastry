@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Black Star Pastry</string>
+    <string name="title">Black Star Pastry</string>
+    <string name="logo_description">logoImage</string>
+    <string name="cakeTitle">Strawberry Watermelon Cake</string>
+    <string name="cake_description">cakeImage</string>
+    <string name="cakeContent">Strawberry Watermelon Cake is the most famous dessert in Black Star Pastry, which never fails to impress.
+    \n\nIt consists of two layers of almond dacquoise (like a meringue), rose-scented cream, watermelon, strawberries and garnished with pistachios and dried rose petals.</string>
+    rose-scented cream, watermelon, strawberries and garnished with pistachios and dried rose petals.
+    <string name="contactTitle">Contact</string>
+    <string name="phone"><b>Phone:</b> (02) 9557 8656</string>
+    <string name="address"><b>Address:</b> 277 Australia St, Newtown NSW</string>
+    <string name="openhours"><b>Open Hours:</b>\n7am - 5pm Sunday -Wednesday\n7am - 5:30pm Thursday - Saturday </string>
+
+</resources>
